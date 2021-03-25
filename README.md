@@ -1,0 +1,1 @@
+# laravel-google-cloud-translation-api
